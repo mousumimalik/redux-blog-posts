@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-blog-posts/static/css/main.757261cc.css",
+    "main.js": "/redux-blog-posts/static/js/main.2196c306.js",
+    "index.html": "/redux-blog-posts/index.html",
+    "main.757261cc.css.map": "/redux-blog-posts/static/css/main.757261cc.css.map",
+    "main.2196c306.js.map": "/redux-blog-posts/static/js/main.2196c306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.757261cc.css",
+    "static/js/main.2196c306.js"
+  ]
+}
